@@ -7,6 +7,8 @@ Unofficial implementation of [Parameter-Free Channel Attention](https://www.rese
 
 Shi, Yuxuan & Xu, Jun & Yang, Lingxiao & An, Wangpeng & Zhen, Xiantong. (2022). PARAMETER-FREE CHANNEL ATTENTION FOR IMAGE CLASSIFICATION AND SUPER-RESOLUTION. [10.13140/RG.2.2.20039.78241](https://www.researchgate.net/publication/360462671_PARAMETER-FREE_CHANNEL_ATTENTION_FOR_IMAGE_CLASSIFICATION_AND_SUPER-RESOLUTION). 
 
+Original License: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 ## Usage
 
 The module outputs the feature map **already** multiplied with the attention values.
